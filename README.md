@@ -36,3 +36,9 @@ Remember to take breaks throughout the day to avoid burnout and maintain focus. 
 To be successful in the programming field, one must also have excellent problem-solving skills and be able to think critically. Programming is all about solving problems, whether it' s creating a new algorithm or optimizing existing code. By practicing problem solving and critical thinking, programmers can become more efficient and effective in their work. 
  此外，编程人员应该学会与他人合作，因为许多项目需要团队合作才能完成。有效的沟通和团队协作技能对于确保项目按时完成并达到预期目标至关重要。
  最后，保持耐心和毅力也很重要。编程可能会很棘手，遇到问题时可能会令人沮丧。保持冷静，坚持不懈地解决问题，最终会取得成功。总之，成为编程领域的专家需要不断学习、培养问题解决和批判性思维能力、学会合作并保持耐心。
+
+# 2023-11-25
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, prioritize your tasks based on their importance and deadlines. By giving priority to the tasks that need to get done first, you can ensure that you are making progress on the right things.
+
+Next, planning ahead is crucial for success. Make a plan for your day, week, or even month, depending on your project. Planning ahead will allow you time to think about potential obstacles and challenges, so you're better prepared to tackle them. It will also help to organize your thoughts and ideas, making it easier to implement your plan effectively. 
+ - 来自NLP

@@ -49,3 +49,6 @@ Next, planning ahead is crucial for success. Make a plan for your day, week, or 
 First, prioritize your tasks. When you're working on a project, there will always be multiple things that need to get done. By identifying which tasks are most important and which can wait, you can make sure that you focus on the right things at the Right time. Use a task management tool, such as Trello or Asana, to keep track of your work and make adjustments as needed. 
  -
 Next, wisely plan you time by setting deadlines and goals for yourself. Make sure to allot enough time for each task, but don't be afraid to schedule breaks in between. Taking short breaks can actually improve your focus and productivity. You can also use time management techniques, like the Pomodoro Technique, which involves working in 25-minute increments with 5 minutes breaks. To stay motivated and focused, set achievable goals and celebrate small victories along the way.
+
+# 2023-11-27
+- "Keep it simple, stupid!"

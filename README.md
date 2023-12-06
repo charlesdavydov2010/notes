@@ -87,3 +87,9 @@ Use task management tools, such as Trello or Asana, to keep track of your tasks 
 
 Second, always plan your day or week ahead of time. Write down your goals and tasks for the day, then break them down into smaller, manageable steps. At the end of the week, review your progress and adjust your plan as needed. Planning ahead will ensure you have a clear idea of what you need to accomplish and will prevent you from getting overwhelmed by tasks. 
  .Finally, stay organize by using tools and techniques that help keep your code and work space clean and tidy. Use version control systems like Git to track your changes and collaborate with others. Keep your editor or IDE organized by following best practices like using the correct syntax highlighting and organizing your files and folders. Organized code is easier to maintain and update, which saves time and reduces the risk of errors.
+
+# 2023-12-06
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. By prioritizing your tasks this way, you can ensure that you are making progress on the right things.
+
+Second, use time management techniques like the Pomodoro Technique to break up your day into focused work periods. Set a timer for 25 minutes, work on a task, then take a short break. You can repeat this process several times throughout the day, giving your brain time to rest and refresh. The Pomodororo technique can help improve your focus and reduce distractions. 
+ 最终，保持组织有序。使用版本控制系统（如Git）来管理你的代码，使用任务管理工具（Trello或Jira）跟踪你的进度。这将帮助你保持专注，避免重复工作，并确保你的团队可以轻松协作。通过遵循这些智慧，你将能够更有效地编程，并在你的职业生涯中取得成功。

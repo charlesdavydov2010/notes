@@ -93,3 +93,8 @@ Second, always plan your day or week ahead of time. Write down your goals and ta
 
 Second, use time management techniques like the Pomodoro Technique to break up your day into focused work periods. Set a timer for 25 minutes, work on a task, then take a short break. You can repeat this process several times throughout the day, giving your brain time to rest and refresh. The Pomodororo technique can help improve your focus and reduce distractions. 
  最终，保持组织有序。使用版本控制系统（如Git）来管理你的代码，使用任务管理工具（Trello或Jira）跟踪你的进度。这将帮助你保持专注，避免重复工作，并确保你的团队可以轻松协作。通过遵循这些智慧，你将能够更有效地编程，并在你的职业生涯中取得成功。
+
+# 2023-12-07
+- "Premature optimization is the root of all evil." - Donald Knuth
+
+Optimizing code before it's necessary can lead to overly complex and difficult-to-maintain code. It's better to write clean, simple code first and optimize only when profiling indicates that a specific part of the code is causing performance issues.

@@ -111,3 +111,8 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 
 # 2023-12-10
 - Today's programming wisdom is to write code that is simple, readable, and maintainable. It's easy to get caught up in trying to create complex and clever solutions, but often the best approach is to keep things straightforward and easy to understand. This makes it easier for others to read and work with your code, and also makes it easier for you to come back to it later and make changes or fix bugs. So when you're coding, remember that simplicity is key!
+
+# 2023-12-11
+- "Premature optimization is the root of all evil." - Donald Knuth. 
+
+This quote reminds us that optimizing code before it's necessary can often lead to more complexity, bugs, and wasted time. It's better to write clean, simple code first and optimize only when needed.

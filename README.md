@@ -124,3 +124,10 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 
 # 2023-12-13
 - Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. Focus on writing clean, readable, and maintainable code first. Optimize only when necessary and after profiling your code to identify bottlenecks.
+
+# 2023-12-14
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is essential to stay up-to-date with the latest developments and techniques in the field. This requires a dedication to continuous learning and the willingness to embrace new ideas and tools.
+
+To be an effective programmer, one must also have a strong foundation in core concepts and principles. By understanding the fundamentals of computer science, such as data structures, algorithms, and programming languages, you will be better equipped to tackle complex problems and develop innovative solutions. Additionally, practice makes perfect, so it' s crucial to keep practicing and refining your skillset. 
+ - 学习编程语言和框架，以适应不断变化的技术环境。
+- 对计算机科学的基本概念（如数据结构、算法和编程原则）有深入的了解。-保持练习和实践，不断提高技能水平。

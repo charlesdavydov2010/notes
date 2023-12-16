@@ -141,3 +141,6 @@ To be an effective programmer, one must also have a strong foundation in core co
 4. Seek feedback and continuous improvement: Ask for feedback from colleagues and mentors to identify areas where you can improve Your skills. Always be open to learning from your mistakes and using them as opportunities for growth.   
 5. Practice good time management and organizational skills: As a developer, you' ll likely work on multiple projects at once. Learning how to prioritize tasks and manage your time effectively can save you stress and ensure you meet deadlines.    
 6. Never stop learning: The tech world is constantly changing, so it’s essential to keep up with new developments and learn new skills to Stay relevant and successful inYour career. Dedicate time each week to learn something new, whether it be through online courses, books, blogs, podcasts, etc.
+
+# 2023-12-16
+- "Keep it simple, stupid!"

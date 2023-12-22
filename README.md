@@ -165,3 +165,11 @@ This quote reminds us that optimizing code too early in the development process 
 
 # 2023-12-21
 - Today's programming wisdom is: "Simplicity is the ultimate sophistication. Complex systems tend to be more fragile and difficult to maintain. Always strive to write clean, concise, and readable code that solves the problem at hand without unnecessary complexity. Remember that code is read far more often than it is written, so prioritize clarity and understandability over cleverness or optimization. And finally, embrace the iterative process of refactoring and continuous improvement, as it allows us to adapt to changing requirements and learn from our mistakes."
+
+# 2023-12-22
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, identify the most important tasks and focus on them first. By prioritizing your tasks this way, you can ensure that you are making progress on the right things.
+
+Second, use time management techniques to your advantage. Block out time in the day for specific tasks so that your schedule is structured and you have time to focus. Avoid multitasking as much as possible, as it can be distracting and lead to poor results. Instead, focus all of your attention on one task at a time, giving it your full attention. 
+ 使用编程语言进行编程时，始终使用最新版本的软件和工具。这将确保您能够充分利用新功能和改进，从而提高您的编程技能。
+   
+Finally, stay organised in all aspects of programming. Use version control systems like Git to keep track of and manage your code. Organize your files and projects neatly, so you always know where to find what you need. Document your work well, both for your own reference and for others who may need to understand your codes.

@@ -261,3 +261,6 @@ In essence, this echoes the principle often attributed to Leonardo da Vinci, whi
 Next, use scheduling tools and apps to plan out your day. Block off time for each tasks in a way that allows you time to focus and avoid distractions. Set reminders for important deadlines and meetings to ensure you stay on track. Finally, maintain an organized workspace and keep track of your progress. Use task management tools like Trello or Asana to keep your tasks and progress in order. 
  通过优先处理任务，明智地规划时间并保持组织，您可以在工作中更加高效和富有成效。首先，确定哪些任务最重要，哪些可以稍后完成。然后，将每个任务分解成更小的、易于管理的步骤。通过这样做，您可以一次专注于一个任务而不会感到不知所措。
 接下来，使用日程安排工具和应用程序来规划您的一天。为每个任务是留出时间，以便您可以集中精力并避免分心。设置重要的截止日期和会议的提醒，以确保您保持正轨。最后，保持工作空间整洁并跟踪您的进度。使用像Trello或Asana这样的任务管理工具来保持您的任务和进度有序。
+
+# 2024-01-13
+- "Keep it simple, stupid!"

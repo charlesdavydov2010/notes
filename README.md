@@ -275,3 +275,6 @@ Next, use scheduling tools and apps to plan out your day. Block off time for eac
 5. Stay organized: Keep your code, project files, notes, etc., neatly organized and labeled. You'd be surprised how much time you save by not having to search for files or code snippets.    
 6. Learn from others: Read blogs, watch tutorials, or join online communities to learn new programming techniques and best practices. Not only will this make you a better programmer, but it'l also give you ideas for improving your workflow.     
 7. Don't be afraid to ask for help: If you're stuck on a problem or need guidance, don' know someone who can help. Asking for assistance can save you hours of wasted time and frustration.
+
+# 2024-01-15
+- "Keep it simple, stupid!"
